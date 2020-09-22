@@ -1,0 +1,1 @@
+ENTRYMESSAGE = "Here I am" #What the bot says when it joins chat
